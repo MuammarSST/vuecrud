@@ -57,7 +57,7 @@
     </div>
   </template>
   
-  <script lang="js">
+  <script>
   import TutorialDataService from "../services/TutorialDataService";
   
   export default {
